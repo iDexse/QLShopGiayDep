@@ -1,0 +1,14 @@
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe.config
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.pdb
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.AssemblyReference.cache
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.Form1.resources
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.FormBill.resources
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.FormShop.resources
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.Properties.Resources.resources
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.GenerateResource.cache
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.CoreCompileInputs.cache
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.exe
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.FormLogin.resources
+E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.HoaDon.resources
