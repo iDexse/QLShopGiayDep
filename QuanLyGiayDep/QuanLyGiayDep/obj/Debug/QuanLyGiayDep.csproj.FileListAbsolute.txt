@@ -12,3 +12,18 @@ E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDe
 E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
 E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.FormLogin.resources
 E:\laptrinhcsdl\QuanLyGiayDep\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.HoaDon.resources
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe.config
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.exe
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\bin\Debug\QuanLyGiayDep.pdb
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.AssemblyReference.cache
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.Form1.resources
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.FormBill.resources
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.FormLogin.resources
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.FormShop.resources
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.HoaDon.resources
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.Properties.Resources.resources
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.GenerateResource.cache
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.csproj.CoreCompileInputs.cache
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.exe
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.pdb
+D:\Lập trình cơ sở dữ liệu\QLShopGiayDep-main\QuanLyGiayDep\QuanLyGiayDep\obj\Debug\QuanLyGiayDep.ChitietMatHang.resources
